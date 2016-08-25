@@ -1,0 +1,2 @@
+# static-demo
+static demo
