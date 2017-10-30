@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+.idea
+*.sublime-project
+*.sublime-workspace
+*.swp
+
+# Ignore Mac OS desktop services store
+.DS_Store
+backup
+
+# Ignore Windows desktop setting file
+desktop.ini
